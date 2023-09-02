@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashish G.T.</h1>
 <h3 align="center">I'm a tech enthusiast who loves learning and growing. I'm into design and problem-solving, crafting user experiences that follow current web trends. I'm open to new challenges and always improving. When I'm not coding, I explore tech trends and do freelance projects. I'm eager to use my skills to create awesome digital products and work with a forward-thinking team.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashishgt&label=Profile%20views&color=0e75b6&style=flat" alt="prashishgt" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashishgt" alt="prashishgt" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Freelancing**
