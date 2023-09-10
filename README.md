@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashishgt" alt="prashishgt" /></a> </p>
 
-- 🌱 I’m currently learning **.NET / Web3**
+- 🌱 I’m currently learning ** Redux / .NET / Web3**
 
 - 👯 I’m looking to collaborate on **Freelancing**
 
